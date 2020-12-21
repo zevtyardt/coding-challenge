@@ -1,6 +1,5 @@
-[![alt text][http://i.imgur.com/P3YfQoD.png][http://www.facebook.com/valxyriee]
-[![alt text][http://i.imgur.com/0o48UoR.png][http://www.github.com/zevtyardt]
-
+[![alt text][http://i.imgur.com/P3YfQoD.png]][http://www.facebook.com/valxyriee]
+[![alt text][http://i.imgur.com/0o48UoR.png]][http://www.github.com/zevtyardt]
 
 ## tunggu, apa ini!
 Ini adalah kumpulan beberapa source code yang aku buat waktu selesai nonton TheCodingTrain
