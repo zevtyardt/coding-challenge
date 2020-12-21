@@ -2,7 +2,7 @@
 [![alt text][6.1]][6]
 
 ## Tunggu, apa ini!
-Ini adalah kumpulan beberapa source code yang aku buat waktu selesai nonton TheCodingTrain
+Ini adalah kumpulan beberapa source code yang aku buat setelah selesai menonton <i>TheCodingTrain</i>.
 
 ### Daftar Isi
 1. [maze-generator](https://github.com/zevtyardt/coding-challenge/tree/main/maze-generator)
