@@ -4,13 +4,13 @@
 ## tunggu, apa ini!
 Ini adalah kumpulan beberapa source code yang aku buat waktu selesai nonton TheCodingTrain
 
-### daftar isi
+### Daftar Isi
 1. [maze-generator](https://github.com/zevtyardt/coding-challenge/tree/main/maze-generator)
    * [backtracking](https://github.com/zevtyardt/coding-challenge/blob/main/maze-generator/backtracking.py)
+2. [regex-project-alternation](https://github.com/zevtyardt/regex-project-alternation)
+   `Generate one regex from list of strings`
 
-### terima kasih kepada
- * Tuhan YME.
- * Komputer kentangku
+### Pranala Luar
  * [TheCodingTrain](https://m.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
