@@ -1,7 +1,7 @@
 [![alt text][2.1]][2]
 [![alt text][6.1]][6]
 
-# tunggu, apa ini!
+## tunggu, apa ini!
 Ini adalah kumpulan beberapa source code yang aku buat waktu selesai nonton TheCodingTrain
 
 ### daftar isi
