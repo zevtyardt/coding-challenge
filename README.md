@@ -17,9 +17,8 @@ Ini adalah kumpulan beberapa source code yang aku buat setelah selesai menonton 
 
 ---
 <details>
- <summary>Lihat Juga Repositori Saya</summary>
+ <summary>Lihat Juga Repositori Saya</summary></br>
 
- \
  * [regex-project-alternation](https://github.com/zevtyardt/regex-project-alternation)
  * [CrosswordGameProject](https://github.com/zevtyardt/CrosswordGameProject)
 
