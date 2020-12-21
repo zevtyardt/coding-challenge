@@ -7,9 +7,10 @@ Ini adalah kumpulan beberapa source code yang aku buat setelah selesai menonton 
 ### Daftar Isi
 1. [Tunggu, apa ini!](#tunggu+apa+ini)
 2. [Daftar Isi](#daftar+isi)
-3. Algoritma
-   - [maze-generator](https://github.com/zevtyardt/coding-challenge/tree/main/maze-generator)
-      * [backtracking](https://github.com/zevtyardt/coding-challenge/blob/main/maze-generator/backtracking.py)
+3. Implementasi Algoritma
+   - [maze generation algorithm](./tree/main/algorithm/maze-generator)
+      * [backtracking](./blob/main/algorithm/maze-generator/backtracking.py)
+   - [Diastic Machine](./blob/main/algorithm/diastic-machine.py)
 4. [Pranala Luar](#pranala+luar)
 
 ### Pranala Luar
@@ -17,7 +18,7 @@ Ini adalah kumpulan beberapa source code yang aku buat setelah selesai menonton 
 
 ---
 <details>
- <summary>Lihat Juga Repositori Saya</summary></br>
+ <summary>Lihat Juga</summary></br>
 
  * [regex-project-alternation](https://github.com/zevtyardt/regex-project-alternation)
  * [CrosswordGameProject](https://github.com/zevtyardt/CrosswordGameProject)
