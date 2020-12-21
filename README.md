@@ -9,14 +9,18 @@ Ini adalah kumpulan beberapa source code yang aku buat setelah selesai menonton 
    * [backtracking](https://github.com/zevtyardt/coding-challenge/blob/main/maze-generator/backtracking.py)
 
 <details>
-    <summary>Repositori Saya</summary>
+ <summary>Repositori Saya</summary>
+  <p>
+    Beberapa repositori yang sudah saya buat sebelumnya, antara lain:
+  </p>
 
- 1. [regex-project-alternation](https://github.com/zevtyardt/regex-project-alternation)
+  1. [regex-project-alternation](https://github.com/zevtyardt/regex-project-alternation)
 
 </details>
 
 ### Pranala Luar
  * [TheCodingTrain](https://m.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+
 
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
