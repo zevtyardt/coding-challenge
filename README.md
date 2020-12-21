@@ -7,10 +7,12 @@ Ini adalah kumpulan beberapa source code yang aku buat setelah selesai menonton 
 ### Daftar Isi
 1. [maze-generator](https://github.com/zevtyardt/coding-challenge/tree/main/maze-generator)
  * [backtracking](https://github.com/zevtyardt/coding-challenge/blob/main/maze-generator/backtracking.py)
- . [Repositori Saya](#Repositori+Saya)
+1. <details>
+    <summary>Repositori Saya</summary>
 
-### Repositori Saya
  - [regex-project-alternation](https://github.com/zevtyardt/regex-project-alternation)
+
+   </details>
 
 ### Pranala Luar
  * [TheCodingTrain](https://m.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
