@@ -6,13 +6,14 @@ Ini adalah kumpulan beberapa source code yang aku buat setelah selesai menonton 
 
 ### Daftar Isi
 1. [maze-generator](https://github.com/zevtyardt/coding-challenge/tree/main/maze-generator)
- * [backtracking](https://github.com/zevtyardt/coding-challenge/blob/main/maze-generator/backtracking.py)
-1. <details>
+   * [backtracking](https://github.com/zevtyardt/coding-challenge/blob/main/maze-generator/backtracking.py)
+
+<details>
     <summary>Repositori Saya</summary>
 
- - [regex-project-alternation](https://github.com/zevtyardt/regex-project-alternation)
+ 1. [regex-project-alternation](https://github.com/zevtyardt/regex-project-alternation)
 
-   </details>
+</details>
 
 ### Pranala Luar
  * [TheCodingTrain](https://m.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
