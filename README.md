@@ -7,7 +7,7 @@ Ini adalah kumpulan beberapa source code yang aku buat waktu selesai nonton TheC
 ### Daftar Isi
 1. [maze-generator](https://github.com/zevtyardt/coding-challenge/tree/main/maze-generator)
    * [backtracking](https://github.com/zevtyardt/coding-challenge/blob/main/maze-generator/backtracking.py)
-2. [regex-project-alternation](https://github.com/zevtyardt/regex-project-alternation) - Generate one regex from list of string`
+2. [regex-project-alternation](https://github.com/zevtyardt/regex-project-alternation)
 
 ### Pranala Luar
  * [TheCodingTrain](https://m.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
