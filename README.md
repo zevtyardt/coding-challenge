@@ -8,9 +8,9 @@ Ini adalah kumpulan beberapa source code yang aku buat setelah selesai menonton 
 1. [Tunggu, apa ini!](#tunggu+apa+ini)
 2. [Daftar Isi](#daftar+isi)
 3. Implementasi Algoritma
-   - [maze generation algorithm](./tree/main/algorithm/maze-generator)
-      * [backtracking](./blob/main/algorithm/maze-generator/backtracking.py)
-   - [Diastic Machine](./blob/main/algorithm/diastic-machine.py)
+   - [maze generation algorithm](./algorithm/maze-generator)
+      * [backtracking](./algorithm/maze-generator/backtracking.py)
+   - [Diastic Machine](./algorithm/diastic-machine.py)
 4. [Pranala Luar](#pranala+luar)
 
 ### Pranala Luar
