@@ -5,13 +5,13 @@
 Ini adalah kumpulan beberapa source code yang aku buat setelah selesai menonton <i>TheCodingTrain</i>.
 
 ### Daftar Isi
-1. [Tunggu, apa ini!](#tunggu+apa+ini)
-2. [Daftar Isi](#daftar+isi)
+1. [Tunggu, apa ini!](#tunggu-apa-ini)
+2. [Daftar Isi](#daftar-isi)
 3. [Implementasi Algoritma](./algorithm)
    * [maze generation algorithm](./algorithm/maze-generator)
       * [backtracking](./algorithm/maze-generator/backtracking.py)
    * [Diastic Machine](./algorithm/diastic-machine.py)
-4. [Pranala Luar](#pranala+luar)
+4. [Pranala Luar](#pranala-luar)
 
 ### Pranala Luar
  * [TheCodingTrain](https://m.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
