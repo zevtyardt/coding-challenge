@@ -11,7 +11,9 @@ Ini adalah kumpulan beberapa source code yang aku buat setelah selesai menonton 
    * [maze generation algorithm](./algorithm/maze-generator)
       * [backtracking](./algorithm/maze-generator/backtracking.py)
    * [Diastic Machine](./algorithm/diastic-machine.py)
-4. [Pranala Luar](#pranala-luar)
+5. [Games](./games)
+   * [minesweeper](./games/minesweeper.py)
+6. [Pranala Luar](#pranala-luar)
 
 ### Pranala Luar
  * [TheCodingTrain](https://m.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
