@@ -4,7 +4,7 @@ import random
 pygame.init()
 
 
-WIDTH, HEIGHT = 600, 600
+WIDTH, HEIGHT = 800, 800
 num_cell = 10
 total_mines = 10
 
@@ -12,7 +12,7 @@ cols, rows = WIDTH // num_cell, HEIGHT // num_cell
 surface = pygame.display.set_mode((WIDTH, HEIGHT))
 
 # ukuran font sesuaikan sama ukuran layar
-font_obj = pygame.font.Font("freesansbold.ttf", 32)
+font_obj = pygame.font.Font("freesansbold.ttf", 30)
 
 pygame.display.set_caption("Minesweeper".title())
 fps_clock = pygame.time.Clock()
@@ -44,7 +44,7 @@ class Cell(object):
                 if total_mine > 0:
                     msg = font_obj.render(f"{total_mine}", True, self.color)
                     msg_rect = msg.get_rect()
-                    msg_rect.topleft = (x + msg_rect[2], y + msg_rect[3] * 0.5)
+                    msg_rect.topleft = (x + msg_rect[2] + cols // 5, y + msg_rect[3])
                     surface.blit(msg, msg_rect)
             else:
                 rect = pygame.Rect(x + cols // 4, y + rows // 4, cols * 0.5, rows * 0.5)
@@ -116,8 +116,7 @@ while True:
         if event.type == 768 and event.key == ord("r"):
             initialize()
 
-        # left click
-        if not gameOver and event.type == pygame.MOUSEBUTTONDOWN and event.button == 1:
+        if not gameOver and event.type == pygame.MOUSEBUTTONDOWN:
             x, y = event.pos
             i, j = x // cols, y // rows
 
