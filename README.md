@@ -10,6 +10,8 @@ Ini adalah kumpulan beberapa source code yang aku buat setelah selesai menonton 
 3. [Implementasi Algoritma](./algorithm)
    * [maze generation algorithm](./algorithm/maze-generator)
       * [backtracking](./algorithm/maze-generator/backtracking.py)
+   * [sorting-algorithm](./sorting-algorithm)
+      * [bubble sort](.sorting-algorithm/bubble-sort.py)
    * [Diastic Machine](./algorithm/diastic-machine.py)
 5. [Games](./games)
    * [minesweeper](./games/minesweeper.py)
