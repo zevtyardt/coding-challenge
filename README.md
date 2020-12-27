@@ -7,14 +7,14 @@ Ini adalah kumpulan beberapa source code yang aku buat setelah selesai menonton 
 ### Daftar Isi
 1. [Tunggu, apa ini!](#tunggu-apa-ini)
 2. [Daftar Isi](#daftar-isi)
-3. [Implementasi Algoritma](./algorithm)
-   * [maze generation algorithm](./algorithm/maze-generator)
-      * [backtracking](./algorithm/maze-generator/backtracking.py)
-   * [sorting-algorithm](./sorting-algorithm)
-      * [bubble sort](.sorting-algorithm/bubble-sort.py)
-   * [Diastic Machine](./algorithm/diastic-machine.py)
-5. [Games](./games)
-   * [minesweeper](./games/minesweeper.py)
+3. [Implementasi Algoritma](./Algorithm)
+   * [maze generation algorithm](./Algorithm/MazeGenerator)
+      * [backtracking](./Algorithm/MazeGenerator/Backtracking.py)
+   * [sorting-algorithm](./SortingAlgorithm)
+      * [bubble sort](./SortingAlgorithm/BubbleSort.py)
+   * [Diastic Machine](./Algorithm/DiasticMachine.py)
+5. [Games](./Games)
+   * [minesweeper](./Games/MineSweeper.py)
 6. [Pranala Luar](#pranala-luar)
 
 ### Pranala Luar
